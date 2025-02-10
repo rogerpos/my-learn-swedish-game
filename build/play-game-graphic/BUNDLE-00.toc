@@ -1,0 +1,3 @@
+([('play-game-graphic',
+   '/Users/guido/my-learn-swedish-game/dist/play-game-graphic',
+   'EXECUTABLE')],)
